@@ -1,0 +1,22 @@
+{
+  "name": "movieql-2021",
+  "version": "1.0.0",
+  "description": "Movie API with Graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jinwook-Song/movieql-2021.git"
+  },
+  "author": "Jinwook Song <wlsdnr129@naver.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jinwook-Song/movieql-2021/issues"
+  },
+  "homepage": "https://github.com/Jinwook-Song/movieql-2021#readme",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
